@@ -1,0 +1,122 @@
+[
+  {
+    "isbn": "0553803700",
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "year": 1950
+  },
+  {
+    "isbn": "080213825X",
+    "title": "Four Blondes",
+    "author": "Candace Bushnell",
+    "year": 2000
+  },
+  {
+    "isbn": "0375913750",
+    "title": "Love, Stargirl",
+    "author": "Jerry Spinelli",
+    "year": 2007
+  },
+  {
+    "isbn": "074349671X",
+    "title": "The Tenth Circle",
+    "author": "Jodi Picoult",
+    "year": 2006
+  },
+  {
+    "isbn": "0743454553",
+    "title": "Vanishing Acts",
+    "author": "Jodi Picoult",
+    "year": 2005
+  },
+  {
+    "isbn": "0765317508",
+    "title": "Aztec",
+    "author": "Gary Jennings",
+    "year": 1980
+  },
+  {
+    "isbn": "0142501085",
+    "title": "Marlfox",
+    "author": "Brian Jacques",
+    "year": 1998
+  },
+  {
+    "isbn": "1442468351",
+    "title": "Lady Midnight",
+    "author": "Cassandra Clare",
+    "year": 2016
+  },
+  {
+    "isbn": "1439152802",
+    "title": "The Secret Keeper",
+    "author": "Kate Morton",
+    "year": 2012
+  },
+  {
+    "isbn": "0399153942",
+    "title": "The Afghan",
+    "author": "Frederick Forsyth",
+    "year": 2006
+  },
+  {
+    "isbn": "0441017835",
+    "title": "A Touch of Dead",
+    "author": "Charlaine Harris",
+    "year": 2009
+  },
+  {
+    "isbn": "0590554107",
+    "title": "Daja's Book",
+    "author": "Tamora Pierce",
+    "year": 1998
+  },
+  {
+    "isbn": "1451648537",
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "year": 2011
+  },
+  {
+    "isbn": "0590396560",
+    "title": "Cold Fire",
+    "author": "Tamora Pierce",
+    "year": 2002
+  },
+  {
+    "isbn": "000723368X",
+    "title": "Thanks for the Memories",
+    "author": "Cecelia Ahern",
+    "year": 2008
+  },
+  {
+    "isbn": "0803734735",
+    "title": "Bitterblue",
+    "author": "Kristin Cashore",
+    "year": 2012
+  },
+  {
+    "isbn": "1592243002",
+    "title": "Daisy Miller",
+    "author": "Henry James",
+    "year": 1878
+  },
+  {
+    "isbn": "055337849X",
+    "title": "The Brothers K",
+    "author": "David James Duncan",
+    "year": 1992
+  },
+  {
+    "isbn": "0061150142",
+    "title": "The Pact",
+    "author": "Jodi Picoult",
+    "year": 1998
+  },
+  {
+    "isbn": "0739328271",
+    "title": "Plum Spooky",
+    "author": "Janet Evanovich",
+    "year": 2009
+  }
+]
